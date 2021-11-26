@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string-array name="food_Name">
+        <item>Beaf Burger</item>
+        <item>Burger</item>
+        <item>Chicken Burger</item>
+        <item>Diamonds Pizza</item>
+        <item>Fresh Pizza</item>
+        <item>Instant Burger</item>
+        <item>Pizza</item>
+        <item>Pizza Burger</item>
+        <item>Vegetable Burger</item>
+    </string-array>
+    <string-array name="food_Description">
+        <item>Beaf Burger is very tested</item>
+        <item>Burger is very tested</item>
+        <item>Chicken Burger is very tested</item>
+        <item>Diamonds Burger is very tested</item>
+        <item>Fresh Burger is very tested</item>
+        <item>Instant Burger is very tested</item>
+        <item>Pizza is very tested</item>
+        <item>Pizza Burger is very tested</item>
+        <item>Vegetable Burger is very tested</item>
+    </string-array>
+    <string-array name="food_Price">
+        <item>5.00</item>
+        <item>6.00</item>
+        <item>7.00</item>
+        <item>10.00</item>
+        <item>8.00</item>
+        <item>5.00</item>
+        <item>5.00</item>
+        <item>5.00</item>
+        <item>5.00</item>
+    </string-array>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
